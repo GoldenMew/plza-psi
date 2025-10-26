@@ -27,3 +27,5 @@ When exporting it will output a new file with `_PartySlot` and the slot number y
 - The maintainers of [PKHeX](https://github.com/kwsch/PKHeX/)
 - https://github.com/azalea-w for creating plza-save-utils and plza-qse which this is created from.
 - GameFreak for creating the game
+
+(I am by no means an expert at this, and I have very little programming experience. I have thrown this together while awaiting the pkhex update)
